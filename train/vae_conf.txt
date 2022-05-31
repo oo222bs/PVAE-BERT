@@ -1,0 +1,13 @@
+L_input_dim: 23
+L_num_units: 100
+L_num_layers: 1
+VB_input_dim: 35
+VB_num_units: 100
+VB_num_layers: 2
+B_input_dim: 5
+S_dim: 50
+delta: 1.0
+L_weight: 1.0
+B_weight: 1.0
+S_weight: 2.0
+KL_weight: 1.0

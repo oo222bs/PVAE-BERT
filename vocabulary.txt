@@ -1,0 +1,28 @@
+<BOS/EOS>
+azure
+blonde
+blue
+cyan
+fast
+green
+greenish-blue
+harlequin
+move-down
+move-sideways
+move-up
+pull
+purple
+push
+quickly
+red
+scarlet
+slide
+slowly
+unhurriedly
+violet
+yellow
+describe:
+execute:
+repeat action:
+repeat both:
+repeat language:
