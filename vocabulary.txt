@@ -21,8 +21,3 @@ slowly
 unhurriedly
 violet
 yellow
-describe:
-execute:
-repeat action:
-repeat both:
-repeat language:
