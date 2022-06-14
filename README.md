@@ -35,6 +35,8 @@ $ python main_pvae.py
 - reproduction.py: reproduces the actions
 - lang2lang.py: reproduces the descriptions
 
+## Trained PVAE-BERT Model
+Available [here]([https://github.com/ogata-lab/PRAE/](https://drive.google.com/file/d/1eUz6cOm_VkT1vM0V7uRMWq6ApD_wr4B0/view))
 ## Citation
 
 **PVAE-BERT**
