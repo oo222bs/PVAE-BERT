@@ -1,8 +1,8 @@
 # Paired Variational Autoencoders - BERT
 
-[Language Model-Based Paired Variational Autoencoders for Robotic Language Learning](https://arxiv.org/abs/2201.06317)
+[Language Model-Based Paired Variational Autoencoders for Robotic Language Learning](https://ieeexplore.ieee.org/document/9878160)
 
-Last updated: 31st May 2022.
+Last updated: 7 May 2024.
 
 This code has been partially adapted from Copyright (c) 2018, [Tatsuro Yamada](https://github.com/ogata-lab/PRAE/)
 
@@ -42,12 +42,13 @@ Available [here](https://drive.google.com/file/d/1eUz6cOm_VkT1vM0V7uRMWq6ApD_wr4
 
 **PVAE-BERT**
 ```bibtex
-@Article{OKWLW22,
-  author       = "Özdemir, Ozan and Kerzel, Matthias and Weber, Cornelius and Lee, Jae Hee and Wermter, Stefan",
-  title        = "Language Model-Based Paired Variational Autoencoders for Robotic Language Learning",
-  journal      = "arXiv:2201.06317",
-  month        = "Jan",
-  year         = "2022",
-  url          = "https://arxiv.org/pdf/2201.06317.pdf"
-}
+@ARTICLE{OKWLW22,
+  author={Özdemir, Ozan and Kerzel, Matthias and Weber, Cornelius and Hee Lee, Jae and Wermter, Stefan},
+  journal={IEEE Transactions on Cognitive and Developmental Systems}, 
+  title={Language-Model-Based Paired Variational Autoencoders for Robotic Language Learning}, 
+  year={2023},
+  volume={15},
+  number={4},
+  pages={1812-1824},
+  doi={10.1109/TCDS.2022.3204452}}
 ```
